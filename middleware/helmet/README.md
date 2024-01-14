@@ -16,7 +16,7 @@ go get -u github.com/gofiber/helmet/v2
 package main
 
 import (
-  "github.com/gofiber/fiber/v3"
+  "github.com/boomhut/fiber/v3"
   "github.com/gofiber/helmet/v2"
 )
 

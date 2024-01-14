@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gofiber/fiber/v3/log"
+	"github.com/boomhut/fiber/v3/log"
 	"github.com/gofiber/utils/v2"
 
 	"github.com/valyala/fasthttp"
@@ -121,6 +121,10 @@ type App struct {
 	mountFields *mountFields
 	// Indicates if the value was explicitly configured
 	configured Config
+	// boomhut custom field: codename string
+	codename string
+	// boomhut custom field: codenameEmoji string
+	codenameEmoji string
 }
 
 // Config is a struct holding the server settings.

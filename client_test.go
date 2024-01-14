@@ -18,7 +18,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gofiber/fiber/v3/internal/tlstest"
+	"github.com/boomhut/fiber/v3/internal/tlstest"
 	"github.com/stretchr/testify/require"
 	"github.com/valyala/fasthttp/fasthttputil"
 )

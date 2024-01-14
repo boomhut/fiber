@@ -108,7 +108,7 @@
 ```go
 package main
 
-import "github.com/gofiber/fiber/v3"
+import "github.com/boomhut/fiber/v3"
 
 func main() {
     app := fiber.New()
@@ -321,7 +321,7 @@ func main() {
 package main
 
 import (
-    "github.com/gofiber/fiber/v3"
+    "github.com/boomhut/fiber/v3"
     "github.com/gofiber/template/pug"
 )
 
@@ -388,8 +388,8 @@ package main
 import (
     "log"
 
-    "github.com/gofiber/fiber/v3"
-    "github.com/gofiber/fiber/v3/middleware/logger"
+    "github.com/boomhut/fiber/v3"
+    "github.com/boomhut/fiber/v3/middleware/logger"
 )
 
 func main() {
@@ -411,8 +411,8 @@ func main() {
 import (
     "log"
 
-    "github.com/gofiber/fiber/v3"
-    "github.com/gofiber/fiber/v3/middleware/cors"
+    "github.com/boomhut/fiber/v3"
+    "github.com/boomhut/fiber/v3/middleware/cors"
 )
 
 func main() {
@@ -496,8 +496,8 @@ func main() {
 
 ```go
 import (
-    "github.com/gofiber/fiber/v3"
-    "github.com/gofiber/fiber/v3/middleware/websocket"
+    "github.com/boomhut/fiber/v3"
+    "github.com/boomhut/fiber/v3/middleware/websocket"
 )
 
 func main() {
@@ -530,7 +530,7 @@ func main() {
 
 ```go
 import (
-    "github.com/gofiber/fiber/v3"
+    "github.com/boomhut/fiber/v3"
     "github.com/valyala/fasthttp"
 )
 
@@ -571,8 +571,8 @@ func main() {
 
 ```go
 import (
-    "github.com/gofiber/fiber/v3"
-    "github.com/gofiber/fiber/v3/middleware/recover"
+    "github.com/boomhut/fiber/v3"
+    "github.com/boomhut/fiber/v3/middleware/recover"
 )
 
 func main() {

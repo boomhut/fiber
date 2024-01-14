@@ -1,7 +1,7 @@
 package skip
 
 import (
-	"github.com/gofiber/fiber/v3"
+	"github.com/boomhut/fiber/v3"
 )
 
 // New creates a middleware handler which skips the wrapped handler

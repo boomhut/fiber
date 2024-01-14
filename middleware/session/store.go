@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/gofiber/fiber/v3"
-	"github.com/gofiber/fiber/v3/internal/storage/memory"
+	"github.com/boomhut/fiber/v3"
+	"github.com/boomhut/fiber/v3/internal/storage/memory"
 	"github.com/gofiber/utils/v2"
 	"github.com/valyala/fasthttp"
 )

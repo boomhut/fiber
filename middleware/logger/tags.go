@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gofiber/fiber/v3"
+	"github.com/boomhut/fiber/v3"
 )
 
 // Logger variables

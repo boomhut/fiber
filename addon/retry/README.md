@@ -28,7 +28,7 @@ Firstly, import the addon from Fiber,
 
 ```go
 import (
-    "github.com/gofiber/fiber/v3/addon/retry"
+    "github.com/boomhut/fiber/v3/addon/retry"
 )
 ```
 

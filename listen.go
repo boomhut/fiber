@@ -19,7 +19,7 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/gofiber/fiber/v3/log"
+	"github.com/boomhut/fiber/v3/log"
 	"github.com/mattn/go-colorable"
 	"github.com/mattn/go-isatty"
 )

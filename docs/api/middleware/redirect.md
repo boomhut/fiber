@@ -18,8 +18,8 @@ func New(config ...Config) fiber.Handler
 package main
 
 import (
-  "github.com/gofiber/fiber/v3"
-  "github.com/gofiber/fiber/v3/middleware/redirect"
+  "github.com/boomhut/fiber/v3"
+  "github.com/boomhut/fiber/v3/middleware/redirect"
 )
 
 func main() {

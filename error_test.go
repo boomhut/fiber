@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/gofiber/fiber/v3/internal/schema"
+	"github.com/boomhut/fiber/v3/internal/schema"
 	"github.com/stretchr/testify/require"
 )
 

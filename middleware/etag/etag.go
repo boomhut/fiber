@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"hash/crc32"
 
-	"github.com/gofiber/fiber/v3"
+	"github.com/boomhut/fiber/v3"
 	"github.com/valyala/bytebufferpool"
 )
 

@@ -3,7 +3,7 @@ package limiter
 import (
 	"time"
 
-	"github.com/gofiber/fiber/v3"
+	"github.com/boomhut/fiber/v3"
 )
 
 // Config defines the config for middleware.

@@ -3,7 +3,7 @@ package helmet
 import (
 	"fmt"
 
-	"github.com/gofiber/fiber/v3"
+	"github.com/boomhut/fiber/v3"
 )
 
 // New creates a new middleware handler

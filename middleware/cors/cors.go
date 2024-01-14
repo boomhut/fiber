@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gofiber/fiber/v3"
-	"github.com/gofiber/fiber/v3/log"
+	"github.com/boomhut/fiber/v3"
+	"github.com/boomhut/fiber/v3/log"
 )
 
 // Config defines the config for middleware.

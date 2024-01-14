@@ -4,7 +4,7 @@ import (
 	errors "encoding/json"
 	stdErrors "errors"
 
-	"github.com/gofiber/fiber/v3/internal/schema"
+	"github.com/boomhut/fiber/v3/internal/schema"
 )
 
 // Wrap and return this for unreachable code if panicking is undesirable (i.e., in a handler).

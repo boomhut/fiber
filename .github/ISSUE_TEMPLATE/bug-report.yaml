@@ -61,7 +61,7 @@ body:
       value: |
         package main
 
-        import "github.com/gofiber/fiber/v3"
+        import "github.com/boomhut/fiber/v3"
         import "log"
 
         func main() {

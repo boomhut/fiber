@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gofiber/fiber/v3"
-	"github.com/gofiber/fiber/v3/internal/memory"
+	"github.com/boomhut/fiber/v3"
+	"github.com/boomhut/fiber/v3/internal/memory"
 	"github.com/gofiber/utils/v2"
 )
 

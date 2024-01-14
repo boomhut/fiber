@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gofiber/fiber/v3"
-	"github.com/gofiber/fiber/v3/log"
-	"github.com/gofiber/fiber/v3/middleware/session"
+	"github.com/boomhut/fiber/v3"
+	"github.com/boomhut/fiber/v3/log"
+	"github.com/boomhut/fiber/v3/middleware/session"
 	"github.com/gofiber/utils/v2"
 )
 

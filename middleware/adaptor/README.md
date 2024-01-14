@@ -33,7 +33,7 @@ import (
 	"net/http"
 
 	"github.com/gofiber/adaptor/v2"
-	"github.com/gofiber/fiber/v3"
+	"github.com/boomhut/fiber/v3"
 )
 
 func main() {
@@ -68,7 +68,7 @@ import (
 	"net/http"
 
 	"github.com/gofiber/adaptor/v2"
-	"github.com/gofiber/fiber/v3"
+	"github.com/boomhut/fiber/v3"
 )
 
 func main() {
@@ -98,7 +98,7 @@ import (
 	"net/http"
 
 	"github.com/gofiber/adaptor/v2"
-	"github.com/gofiber/fiber/v3"
+	"github.com/boomhut/fiber/v3"
 )
 
 func main() {
@@ -123,7 +123,7 @@ package main
 
 import (
 	"github.com/gofiber/adaptor/v2"
-	"github.com/gofiber/fiber/v3"
+	"github.com/boomhut/fiber/v3"
 	"net/http"
 )
 func main() {

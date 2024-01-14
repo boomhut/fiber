@@ -35,8 +35,8 @@ package main
 import (
     "log"
 
-    "github.com/gofiber/fiber/v3"
-    "github.com/gofiber/fiber/v3/middleware/recover"
+    "github.com/boomhut/fiber/v3"
+    "github.com/boomhut/fiber/v3/middleware/recover"
 )
 
 func main() {

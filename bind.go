@@ -1,7 +1,7 @@
 package fiber
 
 import (
-	"github.com/gofiber/fiber/v3/binder"
+	"github.com/boomhut/fiber/v3/binder"
 	"github.com/gofiber/utils/v2"
 )
 

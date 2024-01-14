@@ -1,7 +1,7 @@
 package limiter
 
 import (
-	"github.com/gofiber/fiber/v3"
+	"github.com/boomhut/fiber/v3"
 )
 
 const (
